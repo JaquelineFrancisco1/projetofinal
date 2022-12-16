@@ -2,26 +2,25 @@
 <h1 align="center">
     <br>
 </h1.
-<p align="justify"> Bem vindos, ao meu projeto! Sinta-se a vontade para entrar nessa  jornada  transformadora  ele foi desenvolvido como requisito final para a conclusão do curso "Todas em Tech" da {reprograma}. 
+<p align="justify"> Bem vindos, ao meu projeto! Sinta-se a vontade para entrar nessa  jornada transformadora  ele foi desenvolvido como requisito final para a conclusão do curso "Todas em Tech" da {reprograma}. 
+    
+    
 #  🔐JUSTIFICATIVA:
 
 <p align="justificar">
-Baseado na minha realidade atual,ser mãe solo, me fez perceber que precisamos de apoio e acolimento, pois todos os dias é necessario matar um leão por dia para dar conta de tudo,
-nem sempre é uma tarefa facíl, ser mãe é literalemente padecer no paraíso, ao longo desse período, percebi a dificuldade de conseguir uma recolocação no mercado de trabalho,
-partindo desse principio entendi a necessidade de buscar qualificações para me adquar e assim alcançar um vaga de emprego ,
+Baseado na minha realidade atual,ser mãe solo, me fez perceber que precisamos de apoio e acolimento, pois todos os dias é necessário matar um leão por dia para dar conta de tudo,
+nem sempre é uma tarefa facíl, ser mãe é literalmente padecer no paraíso, ao longo desse período, percebi a dificuldade de conseguir uma recolocação no mercado de trabalho,
+partindo desse principio entendi a necessidade de buscar qualificações para me adquar e assim alcançar uma vaga de emprego ,
 onde eu consiga dar continuidade ao sustento da minha família. 
 
 <p align="justificar">
 Na maioria dos casos falta informação para que essa mães consigam se qualificar e consiguir uma vaga de emprego, essa rede de apoio nasceu para dar suporte á essas mães negras, interioranas e periféricas.
 que necessitam de uma coloção para manter o sustento da sua Familía.
 
-##  🔑 SOBR
-    E A API:
+##  🔑 SOBRE A API:
 
 <p align="justificar">
-O projeto "Rede de Ajuda: Mães em Ação" é voltado para mulheres que fazem parte da população em vulnerabilidade financeira que,
-atualmente estão sem emprego fixo, com beneficios que agregam na sua renda mensal.Empresas terão acesso a plataforma para buscar,
-por essas mães oferecendo oportunidades de trabalho e qualificações profissionais de forma gratuita.
+O projeto "Rede de Ajuda: Mães em Ação" é voltado para mulheres que fazem parte da população em vulnerabilidade financeira que,atualmente estão sem emprego fixo, com beneficios que agregam na sua renda mensal.Empresas terão acesso a plataforma para buscar,por essas mães oferecendo oportunidades de trabalho e qualificações profissionais de forma gratuita.
 Sendo assim ela é dividida em duas partes:
 
  -  **Empresas** : um espaço de consulta e cadastro de mães desempregadas.
@@ -64,7 +63,7 @@ Desenvolvida utilizando JavaScript e Node.js, uma API conta com dois CRUDs compl
    | |- 📑cursosRoutes.js
    |
    | |- 📑 app.js
-   | |- 📑 swagger.json
+   | 
    |
    |
    |- 📑 .env
@@ -97,17 +96,7 @@ Desenvolvida utilizando JavaScript e Node.js, uma API conta com dois CRUDs compl
 - [ Expresso ](https://expressjs.com/pt-br/)
 - [ Mangusto ](https://mongoosejs.com/)
 - [ Nodemon ](https://www.npmjs.com/package/nodemon)
-- [ Swagger ](https://www.npmjs.com/package/swagger-ui-express)
 
-
-#  🔃 ROTAS
-
-
-##  🔃 ROTA INDEX E SWAGGER
-
-| Método HTTP | ponto final | Descrição |
-| ------------ | ----------------------- | ------------------------------------ |
-| OBTER | `http://localhost:PORT/` | Apresentação do projeto | |
 
 
 ##  🔃 ROTAS - MAES
@@ -270,7 +259,7 @@ Desenvolvida utilizando JavaScript e Node.js, uma API conta com dois CRUDs compl
 * ⬛ Adaptar a API para um formato de APP;
 * ⬛ Implementar cadastramento, autenticação de Novos Cursos;
 * ⬛ Implementar espaço para compartilhamento de experiências entre as mães;
-* ⬛ Implementar espaço para dicas de como melhorar seu CV;
+* ⬛ Implementar espaço para dicas de como melhorar seu Curriculo;
 
 
 ##   👩 SOBRE A AUTORA:
