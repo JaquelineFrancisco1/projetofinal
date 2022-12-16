@@ -1,10 +1,8 @@
 # projetofinal
 <h1 align="center">
     <br>
-    <p align="center">Rede de ajuda: Mães em Ação<p>
 </h1.
-<p align="justify"> Bem vindos, ao meu projeto! Sinta-se a vontade para entrar nessa  jornada  transformadora  ele foi desenvolvido como requisito final para a conclusão do curso "Todas em Tech" da {reprograma}.
-
+<p align="justify"> Bem vindos, ao meu projeto! Sinta-se a vontade para entrar nessa  jornada  transformadora  ele foi desenvolvido como requisito final para a conclusão do curso "Todas em Tech" da {reprograma}. 
 #  🔐JUSTIFICATIVA:
 
 <p align="justificar">
@@ -17,7 +15,8 @@ onde eu consiga dar continuidade ao sustento da minha família.
 Na maioria dos casos falta informação para que essa mães consigam se qualificar e consiguir uma vaga de emprego, essa rede de apoio nasceu para dar suporte á essas mães negras, interioranas e periféricas.
 que necessitam de uma coloção para manter o sustento da sua Familía.
 
-##  🔑 SOBRE A API:
+##  🔑 SOBR
+    E A API:
 
 <p align="justificar">
 O projeto "Rede de Ajuda: Mães em Ação" é voltado para mulheres que fazem parte da população em vulnerabilidade financeira que,
