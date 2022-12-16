@@ -2,7 +2,7 @@
 <h1 align="center">
     <br>
     <p align="center">Rede de ajuda: Mães em Ação<p>
-</h1.>
+</h1.
 <p align="justify"> Bem vindos, ao meu projeto! Sinta-se a vontade para entrar nessa  jornada  transformadora  ele foi desenvolvido como requisito final para a conclusão do curso "Todas em Tech" da {reprograma}.
 
 #  🔐JUSTIFICATIVA:
