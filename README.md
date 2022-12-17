@@ -2,8 +2,11 @@
 <h1 align="center">
     <br>
 </h1.
-<p align="justify"> Bem vindos, ao meu projeto! Sinta-se a vontade para entrar nessa  jornada transformadora  ele foi desenvolvido como requisito final para a conclusão do curso "Todas em Tech" da {reprograma}. 
-    
+ 
+
+<p align="justify"> Sejam Bem-Vindos(a), ao meu projeto! Sinta-se a vontade para explorar essa jornada transformadora, ele foi desenvolvido como requisito final para a conclusão do curso "Todas em Tech" da {reprograma}.
+
+
     
 #  🔐JUSTIFICATIVA:
 
@@ -153,106 +156,6 @@ Desenvolvida utilizando JavaScript e Node.js, uma API conta com dois CRUDs compl
 <br>
 
 ---
-
-
-
-#  ✔️VISUALIZAÇÃO E FUNCIONAMENTO:
-
-
-<br>
-
-> Cadastrando uma Mãe
-<div alinhar = "centro">
-<img src='./assets/mae_post.gif'>
-</div>
-<br>
-
-
-<br>
-
-> Listando todas as mães cadastrados
-<div alinhar = "centro">
-<img src='./assets/mae_getAll.gif'>
-</div>
-<br>
-<br>
-
-> Filtrando pela ocupação:
-<div alinhar = "centro">
-<img src='./assets/mae_getByOccupation.gif'>
-</div>
-<br>
-<br>
-
-> Filtrando pelo curso:
-<div alinhar = "centro">
-<img src='./assets/cursogetByGender.gif'>
-</div>
-<br>
-<br>
-
-
-> Encontrando por ID:
-<div alinhar = "centro">
-<img src='./assets/maes_getById.gif'>
-</div>
-<br>
-<br>
-
-> Atualizando o cadastro de uma Mãe:
-<div alinhar = "centro">
-<img src='./assets/maes_put.gif'>
-</div>
-<br>
-<br>
-
-> Excluindo o cadastro de uma mae:
-<div alinhar = "centro">
-<img src='./assets/mae_delete.gif'>
-</div>
-<br>
-<br>
-
-> Cadastrando curso:
-<div alinhar = "centro">
-<img src='./assets/cursos_post.gif'>
-</div>
-<br>
-<br>
-
-> Listando todos os cursos cadastrados:
-<div alinhar = "centro">
-<img src='./assets/cursos_getAll.gif'>
-</div>
-<br>
-<br>
-
-> Selecionando um curso aleatório do banco de dados:
-<div alinhar = "centro">
-<img src='./assets/cursos_random.gif'>
-</div>
-<br>
-
-> Selecionando por ID:
-<div alinhar = "centro">
-<img src='./assets/cursos_getById.gif'>
-</div>
-<br>
-<br>
-
-> Atualizando curso:
-<div alinhar = "centro">
-<img src='./assets/cursos_put.gif'>
-</div>
-<br>
-<br>
-
-> Excluindo um curso por ID:
-<div alinhar = "centro">
-<img src='./assets/curso_delete.gif'>
-</div>
-<br>
-
 ##  🏗️ IMPLEMENTAÇÕES FUTURAS:
 
 * ⬛ Desenvolvedor um front-end;
